@@ -1,0 +1,25 @@
+{
+    "title": "First Story",
+    "phrases": [
+        {
+            "text": "This is the first phrase.",
+            "start": 5,
+            "end": 10
+        },
+        {
+            "text": "This is the second phrase.",
+            "start": 10,
+            "end": 15
+        },
+        {
+            "text": "This is the third phrase.",
+            "start": 15,
+            "end": 20
+        },
+        {
+            "text": "This is the fourth phrase.",
+            "start": 20,
+            "end": 25
+        }
+    ]
+}
